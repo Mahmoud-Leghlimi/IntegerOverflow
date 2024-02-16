@@ -1,4 +1,4 @@
-# T08-IntegerOverflow
+# IntegerOverflow
 
 Program designed to show integer overflow.
 For expected inputs <=16 all is well, but
